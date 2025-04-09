@@ -33,7 +33,7 @@ Clique Ambiente de execucao -> Executar tudo.
 
 
 ### _Passo 5: Pronto! Agora voce ja tem os resultados (e o grafico)!_
-Espere o programa fazer o seu trabalho. Logo apos, veja o resultado.
+Espere o programa fazer o seu trabalho. Logo apos, veja o resultado (a concentração é dada em mol/L).
 ![](/imagens/8.png)
 ![](/imagens/9.png)
 
