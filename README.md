@@ -13,7 +13,7 @@ Vou lhe mostrar o macaco. Apenas siga as imagens.
 Com o arquivo em maos, vao para o google Colab, clicando [aqui](https://colab.research.google.com/drive/).
 
 Cliquem em arquivo.
-
+![1](/imagens/1.png)
 Cliquem em abrir notebook.
 
 Cliquem em upload e coloquem o arquivo que voces baixaram aqui.
