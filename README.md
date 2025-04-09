@@ -21,7 +21,11 @@ Cliquem em upload e coloquem o arquivo que voces baixaram aqui.
 ### _Passo 3: Coloquem os dados de voces aqui
 Em a1, a2, a3, a4 e a5, coloquem as absorvancias dos experimentos das amostras 1 a 5 (em ordem). Em amostra_desconhecida, coloquem a absorvancia da amostra desconhecida.
 
+### _Passo 4: Execute o algoritmo
+Clique Ambiente de execucao -> Executar tudo.
 
-### _Passo 4: Pronto! Agora voce ja tem os resultados (e o grafico)!
+### _Passo 5: Pronto! Agora voce ja tem os resultados (e o grafico)!
+Espere o programa fazer o seu trabalho. Logo apos, veja o resultado.
+
 
 Qualquer duvida, procure o Capitao Planeta. Se voce souber fazer de outro jeito mais facil, ajude a turma.
